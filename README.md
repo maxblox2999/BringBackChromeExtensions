@@ -1,10 +1,12 @@
 # BringBackChromeExtensions
-
-Restores support for Manifest V2 extensions in Google Chrome for versions 138 and older
-
+Restores support for Manifest V2 extensions in Google Chrome for versions 138 and older.
 ### Installation
+
 Run this in **PowerShell (Admin)**:
 ```powershell
-powershell -ExecutionPolicy Bypass -Command "iwr -useb [https://raw.githubusercontent.com/LunarLegacyStudios/BringBackChromeExtensions/main/EnableMV2.ps1]([https://raw.githubusercontent.com/LunarLegacyStudios/BringBackChromeExtensions/main/EnableMV2.ps1](https://raw.githubusercontent.com/maxblox2999/BringBackChromeExtensions/refs/heads/main/EnableMV2.ps1)) | iex"
+powershell -ExecutionPolicy Bypass -Command "iwr -UseBasicParsing 'https://raw.githubusercontent.com/LunarLegacyStudios/BringBackChromeExtensions/main/EnableMV2.ps1' | iex"
+```
+If you think this project is malware, don't use it. The full source code is available in this repository in plain text so you can review it yourself before running anything.
 
-### project no longer maintained 
+### Project is no longer maintained
+# I will not respond to future issues related to this repo
