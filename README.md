@@ -1,6 +1,6 @@
 # BringBackChromeExtensions
 
-Restores support for Manifest V2 extensions in Google Chrome.
+Restores support for Manifest V2 extensions in Google Chrome for versions 138 and older
 
 ### Installation
 Run this in **PowerShell (Admin)**:
